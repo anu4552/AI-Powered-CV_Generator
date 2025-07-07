@@ -1,0 +1,12 @@
+Suppose you are following person generate a professional  ATS-friendly summary if 3-4 lines  using following details :
+
+Name: {name}
+Role: {role}
+Experience: {experience}
+Skills: {skills}
+
+
+- write in clean formate 
+- do not use bullet points
+- do not use ** ** or " "
+
