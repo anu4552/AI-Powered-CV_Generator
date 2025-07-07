@@ -71,6 +71,14 @@ The result is returned to the frontend for live preview and can be downloaded as
 ✅ DOCX (filled from Word template)
 ----
 
+## ✍️ Author
+| [![Anu's GitHub](https://avatars.githubusercontent.com/anu4552?s=80)](https://github.com/anu4552) |
+| :-----------------------------------------------------------------------------------------------: |
+|                                           **Anu Kumari**                                          |
+|                            [GitHub Profile](https://github.com/anu4552)                           |
+
+
+
 📄 License
 This project is open-source under the MIT License.
 
